@@ -21,8 +21,8 @@ For a full list of packages, please refer to the script.
 ## Installation
 To install and use Termux-Essential, run the following commands in your Termux terminal:
 ```bash
-wget https://raw.githubusercontent.com/linuxfanboy4/termux-essential/refs/heads/main/main.sh
-bash main.sh
+wget https://github.com/linuxfanboy4/termux-essential/raw/main/termux-essential.deb
+termux-essential.deb
 ```
 
 ## How It Works
